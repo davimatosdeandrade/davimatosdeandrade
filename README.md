@@ -10,6 +10,7 @@ Também estou em busca de novas oportunidades profissionais e continuo investind
 No próximo ano, iniciarei minha **faculdade em Análise e Desenvolvimento de Sistemas (ADS)**.
 
 Sempre busco aprender novas tecnologias e desenvolver projetos que unam criatividade, lógica e inovação. 🚀
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
