@@ -25,8 +25,10 @@ Sempre busco aprender novas tecnologias e desenvolver projetos que unam criativi
 <img align="left" alt="C#" title="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="JSON" title="JSON" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img align="left" alt="REST API" title="REST API" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/api/api-original.svg" />
-<img align="left" alt="GameMaker" title="GameMaker Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gamemaker/gamemaker-original.svg" />
+
+<!-- Ícones extras (não oficiais no Devicon) -->
+<img align="left" alt="REST API" title="REST API" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2889/2889676.png" />
+<img align="left" alt="GameMaker" title="GameMaker Studio / GML" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/GameMaker_Studio_2_Logo.svg" />
 
 <br/>
 <br/>
