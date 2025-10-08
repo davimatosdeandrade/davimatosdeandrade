@@ -26,7 +26,7 @@ Sempre busco aprender novas tecnologias e desenvolver projetos que unam criativi
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="JSON" title="JSON" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 <img align="left" alt="REST API" title="REST API" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2889/2889676.png" />
-<img align="left" alt="GameMaker" title="GameMaker Studio / GML" width="40px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/logopedia/images/6/6b/GameMaker_Studio_2_Logo.png" />
+<img align="left" alt="GameMaker" title="Game Development (GameMaker / GML)" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/866/866493.png" />
 
 <br/>
 <br/>
