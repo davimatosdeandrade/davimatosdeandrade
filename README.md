@@ -2,10 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Olá! Me chamo **Davi Matos de Andrade**, tenho 18 anos e moro em **São Paulo**.
-Sou formado no **Ensino Médio** e concluí cursos de **Técnico em Informática** e **Inglês Básico/Intermediário** pela instituição **Nossa Senhora de Fátima**. Atualmente, estou me aprofundando em **desenvolvimento Full Stack** e **criação de jogos**, além de atuar como **freelancer na Workana**.
+👋 Olá! Me chamo **Davi Matos de Andrade**, tenho 19 anos e moro em **São Paulo**.
+Sou formado no **Ensino Médio** e concluí cursos de **Técnico em Informática** e **Inglês Básico/Intermediário** pela instituição **Nossa Senhora de Fátima**. Atualmente, estou me aprofundando em **desenvolvimento Full Stack** e **criação de jogos**.
 Também estou em busca de novas oportunidades profissionais e continuo investindo na minha formação com cursos complementares.
-No próximo ano, iniciarei minha **faculdade em Análise e Desenvolvimento de Sistemas (ADS)**. Sempre busco aprender novas tecnologias e desenvolver projetos que unam criatividade, lógica e inovação. 🚀
+Nesse ano, 2026, iniciei minha **faculdade em Análise e Desenvolvimento de Sistemas (ADS)**. Sempre busco aprender novas tecnologias e desenvolver projetos que unam criatividade, lógica e inovação. 🚀
 
 ---
 
